@@ -1,0 +1,10 @@
+jelszavak
+Administrator		Barcelona13$
+
+USER:			jelszo:
+kis.odon		Password1!	BO
+kovacs.anita		Password2!	MARKETING
+kelemen.istvan		Password3!	PENZUGY
+remek.anna		Password4!	HELPDESK
+it.admin		Password5!	IT
+
